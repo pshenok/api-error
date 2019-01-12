@@ -1,0 +1,26 @@
+{
+  "name": "api-error-class",
+  "version": "1.0.2",
+  "description": "Class for handling HTTP errors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pshenok/api-error.git"
+  },
+  "keywords": [
+    "http",
+    "https",
+    "error",
+    "api",
+    "nodejs"
+  ],
+  "author": "pshenOk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pshenok/api-error/issues"
+  },
+  "homepage": "https://github.com/pshenok/api-error#readme"
+}
